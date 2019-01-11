@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547201263360,
+            "changeTime": 1547201263360,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547201263361,
+            "changeTime": 1547201263361,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547201263361,
+            "changeTime": 1547201263361,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547203039699,
+            "changeTime": 1547203039699,
+            "contentHash": "f6f011fd1335d6d32954bfcd742b46a0f50469d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547203039711,
+            "changeTime": 1547203039711,
+            "contentHash": "98a2d862aae7398f69a93973ba9690afb1068747",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1547203039710,
+            "changeTime": 1547203039710,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 82,
+            "modifiedTime": 1547203236472,
+            "changeTime": 1547203236472,
+            "contentHash": "6849ca24a97b5270fe9caab2b8ef69d586c00d10",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 257,
+            "modifiedTime": 1547203039701,
+            "changeTime": 1547203039701,
+            "contentHash": "fc0f02b5af563fb804c35998fcb7747f4cb98758",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1547203039705,
+            "changeTime": 1547203039705,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1547203039711,
+            "changeTime": 1547203039711,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1547203039708,
+            "changeTime": 1547203039708,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponentController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1547203039703,
+            "changeTime": 1547203039703,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponentHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1547203039704,
+            "changeTime": 1547203039704,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponentRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1\\force-app\\main\\default\\aura\\myFirstLightningComponent\\myFirstLightningComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1547203039706,
+            "changeTime": 1547203039706,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\SalesforceDX1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547203040514,
+            "changeTime": 1547203040514,
+            "contentHash": "5537f8693b708cca93f078b1039a865e8371cc16",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
